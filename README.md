@@ -1,8 +1,5 @@
 <a name="readme-top"></a>
 
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -16,14 +13,9 @@
   Get a jump on the weather with this intuitive and reliable weather app! With just a few taps, you can quickly access detailed forecasts for cities around the globe, empowering you to plan your day with ease and confidence. Utilizing the trusted OpenWeatherMap API, this app provides comprehensive forecasts for the current day and the next five days, including high and low temperatures, humidity levels, and wind speed. Stay one step ahead of Mother Nature with this indispensable app that keeps you informed and prepared for whatever the weather has in store.
 
 <br />
-<a href="https://github.com/mdyeates/weather-app"><strong>Explore the docs »</strong></a>
 <br />
 <br />
-<a href="https://mdyeates.github.io/weather-app/">View Live Deployment</a>
-·
-<a href="https://github.com/mdyeates/weather-app/issues">Report Bug</a>
-·
-<a href="https://github.com/mdyeates/weather-app/issues">Request Feature</a>
+<a href="https://abdulwahidhusein.github.io/weather-app-main/">View Live Deployment</a>
 
   </p>
 </div>
@@ -50,7 +42,6 @@
 
 ## About The Project
 
-[![Weather][product-screenshot]](https://mdyeates.github.io/weather-app/)
 
 User Story:
 
@@ -105,20 +96,6 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- LICENSE -->
 
-## License
-
-Distributed under the MIT License. See `LICENSE.md` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTACT -->
-
-## Contact
-
-Michael Yeates - [@mdyeates](https://twitter.com/mdyeates) - michael-yeates@outlook.com
-
-Project Link: [https://github.com/mdyeates/weather-app](https://github.com/mdyeates/weather-app)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
@@ -134,9 +111,6 @@ Project Link: [https://github.com/mdyeates/weather-app](https://github.com/mdyea
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-
-[license-shield]: https://img.shields.io/github/license/mdyeates/weather-app.svg?style=for-the-badge
-[license-url]: https://github.com/mdyeates/weather-app/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mdyeates
 [product-screenshot]: assets/images/screenshot.png
